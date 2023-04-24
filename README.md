@@ -25,7 +25,7 @@ In the EDA, it can be seen that 'Sex','Pclass','Age','Fare','Embarked' are usefu
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/85885666/233942572-98235d94-00be-4be9-b80f-ef7192c57f7c.png">
 </p>
 
-The features 'PassengerID','Name','Ticket','Cabin' were dropped as they were not correlated with the survival rate of the passengers. The columns 'Sex', 'Embarked' were OneHotEncoded as they were categorical datas. 
+The features 'PassengerID', 'Name', 'Ticket', 'Cabin' were dropped as they were not correlated with the survival rate of the passengers. The columns 'Sex', 'Embarked' were OneHotEncoded as they were categorical datas. 
 
 ## Model Performance
 The models used in this dataset is Logistic regression, kNN Classification, Decision Tree, Random Forest classifier, RBF SVMand XGBoost.
