@@ -8,7 +8,7 @@ Only 38.4 of the passengers survived in the dataset.
   <img width="409" alt="image" src="https://user-images.githubusercontent.com/85885666/233941404-357db14d-75c5-4a3c-b904-4892b8b85de5.png">
 </p>
 
-In the EDA, it can be seen that 'Sex','Pclass','Age','Fare','Embarked' are useful in predicting the survival rate of the passengers. The following plots shows the relationship between the features and the surival rate.
+In the EDA, it can be seen that 'Sex', 'Pclass', 'Age', 'Fare', 'Embarked' are useful in predicting the survival rate of the passengers. The following plots shows the relationship between the features and the surival rate.
 <p align="center">
 <img width="404" alt="image" src="https://user-images.githubusercontent.com/85885666/233942281-678a4694-c33f-4b3e-beee-6dde1d83ba8c.png">
 </p>
